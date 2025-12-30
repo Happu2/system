@@ -138,26 +138,6 @@ npm test
 
 ---
 
-## 🎥 Walkthrough Video
-
-A 3–5 minute walkthrough demonstrating:
-- User signup & login
-- Role-based access (admin vs user)
-- Admin user management
-- Profile update
-- Deployed frontend & backend
-
-📺 **Video Link:** https://<your-video-link>
-
----
-
-## 📤 Submission Details
-
-- **Assessment:** Backend Developer Intern – Purple Merit Technologies
-- **Candidate:** Harpreet Singh
-- **Submission Type:** GitHub Repo + Live URLs + Walkthrough Video
-
----
 
 ## ✅ Status
 
