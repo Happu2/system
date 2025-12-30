@@ -7,7 +7,7 @@ The system provides secure user authentication, role-based access control (RBAC)
 
 ## 🔗 Live Deployment
 
-- **Frontend (Netlify):** https://<your-frontend>.netlify.app
+- **Frontend (Netlify):** https://marvelous-sprinkles-9db837.netlify.app/login
 - **Backend API (Render):** https://user-management-system-backend-pf5h.onrender.com
 
 ---
