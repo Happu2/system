@@ -1,0 +1,55 @@
+# =========================
+# Environment variables
+# =========================
+.env
+.env.local
+.env.development
+.env.production
+
+# =========================
+# Node dependencies
+# =========================
+node_modules/
+
+# =========================
+# Build / transpiled files
+# =========================
+dist/
+build/
+
+# =========================
+# Logs
+# =========================
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+logs/
+*.log
+
+# =========================
+# Test coverage
+# =========================
+coverage/
+
+# =========================
+# OS / Editor files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Temporary / swap files
+# =========================
+*.swp
+*.tmp
+
+# =========================
+# IDE settings (optional)
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# Node cache
+# =========================
+.npm
